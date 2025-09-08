@@ -47,12 +47,6 @@ smart-sales-insights/
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Smart Sales Insights](https://USERNAME.github.io/smart-sales-insights/)
-*(replace `USERNAME` with your GitHub username after deployment)*
-
----
 
 ## ⚡ Installation & Setup
 
@@ -83,13 +77,7 @@ npm run build
 
 ---
 
-## 📸 Screenshots
 
-*Add screenshots of your app here after running locally or deploying.*
-Example:
-![Dashboard Screenshot](assets/screenshot.png)
-
----
 
 ## 🤝 Contributing
 
